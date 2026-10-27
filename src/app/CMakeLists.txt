@@ -1,4 +1,5 @@
 qt_add_executable(secure_send
+  MainWindow.h MainWindow.cpp
   main.cpp
 )
 
